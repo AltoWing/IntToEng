@@ -19,6 +19,7 @@ public class test1 {
 		System.out.println(ite.translateEng(135));
 		System.out.println(ite.translateEng(500));
 		
+		
 		System.out.println(ite.translateEng(1000));
 	}
 
